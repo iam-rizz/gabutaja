@@ -1,0 +1,2 @@
+# gabutaja
+Kumpulan script kegabutan
